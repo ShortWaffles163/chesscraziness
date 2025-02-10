@@ -6,8 +6,8 @@ import chess.pgn
 
 PIECE_VALUES = {
     chess.PAWN: 1,
-    chess.KNIGHT: 3,
-    chess.BISHOP: 3,
+    chess.KNIGHT: 3.5,
+    chess.BISHOP: 3.75,
     chess.ROOK: 5,
     chess.QUEEN: 9,
     chess.KING: 10
